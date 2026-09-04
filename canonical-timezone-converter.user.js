@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Canonical Timezone Converter (JST → Central)
-// @namespace    https://greasyfork.org/users/your-id
+// @namespace    https://greasyfork.org/users/TrueRyoB
 // @version      0.1.0
 // @description  Converts visible YYYY-MM-DD HH:mm JST timestamps to America/Chicago time.
-// @author       You
+// @author       TrueRyoB
 // @license      MIT
 // @match        *://*/*
 // @grant        none
